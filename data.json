@@ -1,0 +1,110 @@
+{
+   "Menu" : [
+
+                {
+                    "nama" : "Pentol Jamur",
+                    "Kategori" : "Pentol",
+                    "Harga" : 3000,
+                    "Poster" : "5.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Pentol Selimut",
+                    "Kategori" : "Pentol",
+                    "Harga" : 3000,
+                    "Poster" : "1.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Pentol Jagung Keju",
+                    "Kategori" : "Pentol",
+                    "Harga" : 3000,
+                    "Poster" : "7.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Pentol Mercon",
+                    "Kategori" : "Pentol",
+                    "Harga" : 3000,
+                    "Poster" : "8.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Pentol Telur Puyuh",
+                    "Kategori" : "Pentol",
+                    "Harga" : 3000,
+                    "Poster" : "6.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Tahu Goreng",
+                    "Kategori" : "Tahu",
+                    "Harga" : 1500,
+                    "Poster" : "4.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Tahu Putih",
+                    "Kategori" : "Tahu",
+                    "Harga" : 1500,
+                    "Poster" : "9.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Tahu Walik",
+                    "Kategori" : "Tahu",
+                    "Harga" : 2000,
+                    "Poster" : "10.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Pentol Kecil",
+                    "Kategori" : "Pentol",
+                    "Harga" : 500,
+                    "Poster" : "2.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Sayur Kol",
+                    "Kategori" : "Sayur",
+                    "Harga" : 1500,
+                    "Poster" : "3.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Terong Goreng",
+                    "Kategori" : "Sayur",
+                    "Harga" : 2000,
+                    "Poster" : "11.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Bakso Goreng",
+                    "Kategori" : "Gorengan",
+                    "Harga" : 2000,
+                    "Poster" : "13.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                },
+                
+                {
+                    "nama" : "Kerupuk Pangsit",
+                    "Kategori" : "Gorengan",
+                    "Harga" : 1500,
+                    "Poster" : "12.jpg",
+                    "Deskripsi" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quaerat fuga fugiat minima hic ea asperiores facere. Animi, assumenda quis repellendus ratione quod, aspernatur"
+                }
+                
+
+   ]
+}
