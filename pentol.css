@@ -113,6 +113,7 @@ header {
     font-weight: 300;
     color: var(--df);
     mask-image: linear-gradient(to top , rgba(0,0,0,0)1% , rgba(0,0,0,1)40%);
+    
 }
 
 .text-home {
@@ -682,11 +683,6 @@ footer .place-2 {
         width: 70%;
     }
 
-    .body-menu .foto {
-        width: 100%;
-        height: 20rem;
-    }
-
     .contact-place {
         width: 100%;
     }
@@ -708,7 +704,6 @@ footer .place-2 {
     label {
         display: none;
     }
-    
 }
 
 @media (max-width : 400px) {

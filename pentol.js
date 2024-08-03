@@ -123,12 +123,12 @@ window.addEventListener('scroll' , function (){
     }else {
         sAbout.style.opacity = '0'}
 
-    if (SY  >= 117  && SY <= 300) {
+    if (SY  >= 117  && SY <= 200) {
         sMenu.style.opacity = '1'
     }else {
         sMenu.style.opacity = '0'}
 
-    if (SY  >= 280  && SY <= 400) {
+    if (SY  >= 180  && SY <= 500) {
         sContact.style.opacity = '1'
     }else {
         sContact.style.opacity = '0'}
