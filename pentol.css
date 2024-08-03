@@ -382,8 +382,7 @@ form {
 .button textarea {
     height: 4rem;
     padding: 1rem;
-    font-size : 1rem;
-
+    font-size: 1rem;
 }
 
 .button button {
@@ -694,10 +693,6 @@ footer .place-2 {
 
     .input-group input {
         height: 5rem;
-    }
-
-    .button textarea {
-        height : 7rem;
     }
 }
 
