@@ -123,7 +123,7 @@ window.addEventListener('scroll' , function (){
     }else {
         sAbout.style.opacity = '0'}
 
-    if (SY  >= 117  && SY <= 200) {
+    if (SY  >= 117  && SY <= 300) {
         sMenu.style.opacity = '1'
     }else {
         sMenu.style.opacity = '0'}
