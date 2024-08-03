@@ -120,23 +120,17 @@ window.addEventListener('scroll' , function (){
 
     if (SY  >= 50  && SY <= 165) {
         sAbout.style.opacity = '1';
-        sAbout.style.transform = 'translateY(0)';
     }else {
-        sAbout.style.transform = 'translateY(-5rem)';
         sAbout.style.opacity = '0'}
 
     if (SY  >= 117  && SY <= 300) {
-        sMenu.style.transform = 'translateY(0)';
         sMenu.style.opacity = '1'
     }else {
-        sMenu.style.transform = 'translateY(-5rem)';
         sMenu.style.opacity = '0'}
 
     if (SY  >= 280  && SY <= 400) {
-        sContact.style.transform = 'translateY(0)';
         sContact.style.opacity = '1'
     }else {
-        sContact.style.transform = 'translateY(-5rem)';
         sContact.style.opacity = '0'}
 })
 
