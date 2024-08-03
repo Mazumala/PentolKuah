@@ -694,6 +694,10 @@ footer .place-2 {
     .input-group input {
         height: 5rem;
     }
+
+    .button textarea {
+        height : 7rem;
+    }
 }
 
 @media (max-width : 480px) {
